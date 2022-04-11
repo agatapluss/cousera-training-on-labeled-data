@@ -1,1 +1,1 @@
-# cousera-training-on-labeled-data-1-week
+# cousera-training-on-labeled-data
